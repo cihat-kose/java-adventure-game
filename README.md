@@ -1,15 +1,15 @@
 # Currently under development...
 
-# JavaAdventureGame
+# Java Adventure Game
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-JVM-blue?style=for-the-badge)
-![License](https://img.shields.io/github/license/ChatGTHB/JavaPatikaProjects?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/ChatGTHB/JavaPatikaProjects?style=for-the-badge)
+![License](https://img.shields.io/github/license/cihat-kose/java-adventure-game?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/cihat-kose/java-adventure-game?style=for-the-badge)
 
 ## 📖 Introduction
 
-Welcome to **JavaAdventureGame**, a text-based adventure game currently under development. Built with Java, this game immerses players in a world filled with thrilling battles, quests, and choices. Prepare to face fierce enemies, gather resources, and explore multiple locations as you fight to survive and thrive.
+Welcome to **java-adventure-game**, a text-based adventure game currently under development. Built with Java, this game immerses players in a world filled with thrilling battles, quests, and choices. Prepare to face fierce enemies, gather resources, and explore multiple locations as you fight to survive and thrive.
 
 ## 🎮 Gameplay Overview
 
