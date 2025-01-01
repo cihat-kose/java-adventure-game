@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-JVM-blue?style=for-the-badge)
-![License](https://img.shields.io/github/license/cihat-kose/java-adventure-game?style=for-the-badge)
+![License](https://img.shields.io/github/license/cihat-kose/java-adventure-game?style=for-the-badge&cacheSeconds=60)
 ![Last Commit](https://img.shields.io/github/last-commit/cihat-kose/java-adventure-game?style=for-the-badge)
 
 ## 📖 Introduction
