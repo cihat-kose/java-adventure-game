@@ -17,19 +17,19 @@ In this adventure, players will navigate through various locations, encounter ob
 
 ## 🦸 Characters
 
-![Characters](img.png)
+![Characters](images/characters.png)
 
 Choose from a roster of unique characters, each with their strengths and skills to help you tackle obstacles and navigate through the game’s challenges.
 
 ## 👾 Obstacles
 
-![Obstacles](img_1.png)
+![Obstacles](images/obstacles.png)
 
 Encounter a range of foes with unique traits and difficulties. Be prepared to engage in combat, as each location presents different challenges.
 
 ## 🗡️ Weapons
 
-![Weapons](img_2.png)
+![Weapons](images/weapons.png)
 
 Equip yourself with a variety of weapons to enhance your combat abilities:
 - **Pistol**
@@ -38,7 +38,7 @@ Equip yourself with a variety of weapons to enhance your combat abilities:
 
 ## 🛡️ Armors
 
-![Armors](img_3.png)
+![Armors](images/armors.png)
 
 Protect yourself with armors ranging from **Light** to **Heavy**, each providing different levels of protection in battle:
 - **Light Armor**
